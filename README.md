@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItzPushkar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java Development
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me pushkardharpureps@gmail.com
 
